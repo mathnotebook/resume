@@ -1,0 +1,50 @@
+html
+
+body{
+  margin:0px;
+  border-style: dotted solid double dashed;
+  border-color:darkkhaki;
+  border-width:5px;
+  border:black 7px ridge;
+  border-color:green brown;
+  border-top-color: orange;
+  padding:20px;
+  margin:50px, 2px, 100px, 200px;
+  
+  
+<!--there are two border color, one is darkkkhaki and one is black, but only black will be read because its on the bottom, which is the latest thing--> 
+}
+
+
+header{
+  font-family: 'Poor Story', cursive;
+  letter-spacing: 10px;
+}
+  
+h1{
+  margin:0px;
+  text-transform: uppercase;
+}
+
+h3{
+  text-align: center;
+}
+
+p{
+  text-align:inherit;
+}
+
+h3{
+  font-family: 'Dancing Script', cursive;
+  }
+
+  h4{
+  font-family: 'Poor Story', cursive;
+  }
+
+.maroon{
+  color:#6b7105;}
+
+#Extra{
+  background-color:#d39292;
+}
